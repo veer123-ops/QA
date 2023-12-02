@@ -2,7 +2,7 @@ package veer.com;
 
 import java.util.Arrays;
 
-public class Arrayseroted {
+public class Arrayrotated {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
